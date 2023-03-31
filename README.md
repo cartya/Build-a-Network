@@ -28,3 +28,4 @@ Verify that PCs can communicate using the ping utility.
 <p align="center">
 <img src="Screenshot (79).png"/>
 </p>
+<b>Part 4: Verify connectivity (ping)</b>

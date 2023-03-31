@@ -9,9 +9,7 @@
 ●Use the ping utility to verify connectivity.
 <h1></h1>
 
-<b>STEP 1
-  #
-Part 1: Setup the Network Topology (Ethernet)</b>
+<b>Part 1: Setup the Network Topology (Ethernet)</b>
 
 Identify cables and ports for use in the network.
 
@@ -30,7 +28,4 @@ Verify that PCs can communicate using the ping utility.
 <p align="center">
 <img src="Screenshot (79).png"/>
 </p>
-<h1></h1>
-<b>STEP 2</b>
-<h1></h1>
-<b>Part 1:</b>
+

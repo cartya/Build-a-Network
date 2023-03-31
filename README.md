@@ -24,5 +24,5 @@ Verify that PCs can communicate using the ping utility.
 <img src="Screenshot (77).png"/>
 </p>
 <p align="right">
-<img src="Screenshot (7).png"/>
+<img src="Screenshot (79).png"/>
 </p>

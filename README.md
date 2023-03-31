@@ -4,7 +4,7 @@
 
 ●Build a simple network with two hosts and a wireless router with at least two switchports. 
 
-●Apply IP addressing for this lab to the PCs to enable communication between these two devices. 
+●Apply IP addressing to the PCs to enable communication between the devices. 
 
 ●Use the ping utility to verify connectivity.
 <h1></h1>

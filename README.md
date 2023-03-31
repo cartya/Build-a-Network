@@ -21,8 +21,8 @@ Enter static IP address information on the LAN interface of the hosts.
 
 Verify that PCs can communicate using the ping utility.
 <p align="left">
-<img src=""/>
+<img src="Screenshot (77).png"/>
 </p>
 <p align="right">
-<img src=""/>
+<img src="Screenshot (7).png"/>
 </p>

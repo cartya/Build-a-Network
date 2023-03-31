@@ -15,14 +15,15 @@ Identify cables and ports for use in the network.
 
 Cable a physical lab topology.
 
+<p align="center">
+<img src="Screenshot (77).png"/>
+</p>
+
 <b>Part 2: Configure PC Host Address</b>
 
 Enter static IP address information on the LAN interface of the hosts.
 
 Verify that PCs can communicate using the ping utility.
-<p align="left">
-<img src="Screenshot (77).png"/>
-</p>
-<p align="right">
+<p align="center">
 <img src="Screenshot (79).png"/>
 </p>
